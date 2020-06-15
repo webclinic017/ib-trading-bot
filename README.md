@@ -19,7 +19,7 @@ Simple open source tool for trading shares on ASX with [Interactive Brokers Gate
 
 ## Instructions
 
-**1. Download and install [Interactive Brokers Python API](http://interactivebrokers.github.io/) and [Interactive Brokers Gateway](https://www.interactivebrokers.com.au/en/index.php?f=16457)\*\***
+**1. Download and install [Interactive Brokers Python API](http://interactivebrokers.github.io/) and [Interactive Brokers Gateway](https://www.interactivebrokers.com.au/en/index.php?f=16457)**
 
 **2. Clone repo**
 
@@ -33,7 +33,7 @@ git clone https://github.com/jdalton92/ib-trading-bot.git
 ib-trading-bot$ python -m venv venv
 ```
 
-**4. Activate virtual environment (below command for windows)**
+**4. Activate virtual environment**
 
 windows:
 
